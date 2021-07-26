@@ -1,0 +1,17 @@
+
+<!--
+	top.location="http://ww17.riyaz.com/?fp=kAhTSrop2WDlEiwaQHUhRxJoClcD0YiaWqMzGVLFuW8uOkbDMDEsC8A2%2FcWjpsSTBHT4A0IgBydNWDxmKgZHpY35k1mwlQv1meIitDD9hGDcoKiWmPgHRcx%2FxauK8xUHoJRdm%2BNbu2%2B0DkUR3MhlFaV32Tx4xuERZFKJ9VycPms%3D&prvtof=IbbGpkZ%2FTR%2F7YkiORWkkuYOwZD7cLrh504NwEBpzGkE%3D&poru=G3cN%2BOYFpJxJesHolK%2B7eqc2NZVtWnVs%2BRpNKNSJqHkUqABnwJN4ouHrp6JMZszX&cifr=1&";
+	/*
+-->
+<html data-adblockkey="MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ==_LJ4XiyqU39Luo7AVcu69ONVxm7VJZ4bo8nzmFa+qUKY+COohlYTSnTMQGMxo8we+4oVVJw0ZwgxKFZ9T/v19uw=="><head>
+				  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+				  <meta name="viewport" content="width=device-width"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script type='text/javascript'>try{document.cookie = 'isframesetenabled=1; path=/;';}catch(exception){}</script></head><frameset rows="100%,*" frameborder="no" border="0" framespacing="0">
+	<frame src="http://ww17.riyaz.com/?fp=kAhTSrop2WDlEiwaQHUhRxJoClcD0YiaWqMzGVLFuW8uOkbDMDEsC8A2%2FcWjpsSTBHT4A0IgBydNWDxmKgZHpY35k1mwlQv1meIitDD9hGDcoKiWmPgHRcx%2FxauK8xUHoJRdm%2BNbu2%2B0DkUR3MhlFaV32Tx4xuERZFKJ9VycPms%3D&prvtof=kd7y9H0CUkCy8r5%2FtUSh8lzjP12JCTv1%2Fd1X4PInzhE%3D&poru=iJhbbGiNpoJDz8HCya39nOL4hpkilqLcBLrZZpvQhy4ixODJ2XLCcxxzIFdPyp0j&">
+</frameset>
+<noframes>
+	<body bgcolor="#ffffff" text="#000000">
+	<a href="http://ww17.riyaz.com/?fp=kAhTSrop2WDlEiwaQHUhRxJoClcD0YiaWqMzGVLFuW8uOkbDMDEsC8A2%2FcWjpsSTBHT4A0IgBydNWDxmKgZHpY35k1mwlQv1meIitDD9hGDcoKiWmPgHRcx%2FxauK8xUHoJRdm%2BNbu2%2B0DkUR3MhlFaV32Tx4xuERZFKJ9VycPms%3D&prvtof=L83E5UrWwIAFE8MtTA35I0XhIkKnZFosqcWy0T5bROQ%3D&poru=oEO7HCEFVXm%2B1Cuf18hWSa2xRqnQpvrspEqaWSWH14v8vj7R1zTzM2rdCKB0g3OX&">Click here to proceed</a>.
+	</body>
+</noframes></html><!--
+*/
+-->
